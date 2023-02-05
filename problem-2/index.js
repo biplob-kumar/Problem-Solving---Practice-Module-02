@@ -2,7 +2,7 @@
 // 2. Write a JavaScript program to find the largest value of five numbers. Using conditional statements.
 // Sample numbers: -8, -3, 0, -9, 1
 // Output: 1
-// ================================
+// ======================================>
 var a= -8;
 var b=  3;
 var c= -0;
@@ -28,7 +28,7 @@ else if (d>a && d>c && d>b && d>e){
 else{
     console.log(e);
 }
-// =======================================
+// =======================================>
 
 
 

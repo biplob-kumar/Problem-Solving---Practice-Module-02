@@ -21,7 +21,7 @@ console.log("not valid");
 }
 
 
-//  difrent way solve  ==================================
+//  difrent way solve  ==================================>
 
 
 var firstside = parseFloat (prompt("Enter firsr number="));
@@ -34,7 +34,7 @@ console.log("valid triangle ");
 else{
 console.log("not valid");
 }
-
+// =========================================================>
 
 
      
